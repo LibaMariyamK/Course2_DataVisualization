@@ -23,9 +23,4 @@ This repository contains lessons and projects from the **Data Visualization** co
    - Learn how to choose the right plot for your data and apply custom styles to make your charts more visually appealing.
 
 7. **Final Project**
-   - A hands-on project where you apply all the techniques learned in previous lessons to a real-world dataset.
-
-8. **Creating Your Own Notebooks**
-   - Put your visualization skills into practice by creating your own notebooks, either for personal projects or professional work.
-
-
+  
